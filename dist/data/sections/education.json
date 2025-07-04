@@ -1,0 +1,70 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2006, "month": 1},
+                    "dateEnd": {"year": 2010, "month": 12},
+                    "img": "images/places/logo-fimes.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+
+                    "locales": {
+                        "pt-br": {
+                            "title": "Bacharel em Sistemas de Informação",
+                            "description": "Graduado em Sistemas de Informação com especialização em Desenvolvimento de Software Multiplataforma.",
+                            "province": "Mineiros-GO",
+                            "country": "Brasil",
+                            "institution": "UniFimes",
+                            "tags": []
+                        },
+                        "en": {
+                            "title": "Bachelor in Information Systems",
+                            "description": "Graduated in Information Systems with a specialization in Multiplatform Software Development.",
+                            "province": "Mineiros-GO",
+                            "country": "Brazil",
+                            "institution": "UniFimes",
+                            "tags": []
+                        }
+                    }
+                },
+
+                {
+                    "id": 1,
+                    "dateStart": {"year": 1998, "month": 1},
+                    "dateEnd": {"year": 2001, "month": 12},
+                    "img": "",
+                    "fallbackFaIcon": "fa-solid fa-school-flag",
+                    "fallbackFaIconColor": "#140f29",
+
+                    "locales": {
+                        "pt-br": {
+                            "title": "Colégio Estadual Olavo Bilac",
+                            "description": "Ensino Médio",
+                            "province": "Goiânia-GO",
+                            "country": "BR",
+                            "institution": "CEOB",
+                            "tags": []
+                        },
+                        "en": {
+                            "title": "Olavo Bilac State School",
+                            "description": "High School",
+                            "province": "Goiânia-GO",
+                            "country": "Brazil",
+                            "institution": "CEOB",
+                            "tags": []
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "sections": [
+        {
+            "id": "about",
+            "categoryId": "home",
+            "jsonPath": "/sections/cover.json",
+            "faIcon": "fa-solid fa-address-card",
+            "type": "centered",
+            "locales": {
+                "pt-br": {
+                    "title": "Olá, meu nome é *Rodrigo Martins.*",
+                    "title_short": "Bem-vindo!",
+                    "description": null,
+                    "nav_label": "Sobre"
+                },
+                "en": {
+                    "title": "Welcome to *my resume!*",
+                    "title_short": "Welcome!",
+                    "description": null,
+                    "nav_label": "About"
+                }
+            }
+        },
+
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/sections/education.json",
+            "faIcon": "fa-solid fa-graduation-cap",
+            "type": "column",
+            "locales": {
+                "pt-br": {
+                    "title": "*Formação* Acadêmica",
+                    "title_short": null,
+                    "description": "Um resumo da minha formação e cursos realizados.",
+                    "nav_label": "Educação"
+                }
+            }
+        },
+
+        {
+            "id": "skills",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/skills.json",
+            "faIcon": "fa-solid fa-tools",
+            "type": "column",
+            "locales": {
+                "pt-br": {
+                    "title": "Conjunto de *Habilidades*",
+                    "title_short": null,
+                    "description": "Explorando as habilidades que adquiri e desenvolvi ao longo dos anos:",
+                    "nav_label": "Habilidades"
+                },
+                "en": {
+                    "title": "*Skill* Set",
+                    "title_short": null,
+                    "description": "Exploring the diverse range of skills I've acquired and developed:",
+                    "nav_label": "Skills"
+                }
+            }
+        },
+
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/sections/experience.json",
+            "faIcon": "fa-solid fa-briefcase",
+            "type": "column",
+            "locales": {
+                "pt-br": {
+                    "title": "Experiências *Profissionais*",
+                    "title_short": null,
+                    "description": "Confira minha experiência de trabalhos e trajetória profissional.",
+                    "nav_label": "Experiência"
+                },
+                "en": {
+                    "title": "*Professional* Experience",
+                    "title_short": null,
+                    "description": "A look into my work experience and career journey.",
+                    "nav_label": "Experience"
+                }
+            }
+        },
+
+        {
+            "id": "achievements",
+            "categoryId": "showcase",
+            "jsonPath": "/sections/achievements.json",
+            "faIcon": "fa-solid fa-award",
+            "type": "row",
+            "locales": {
+                "pt-br": {
+                    "title": "Conquistas *Profissionais*",
+                    "title_short": null,
+                    "description": "Minha jornada como desenvolvedor foi marcada por uma dedicação constante ao aprendizado e ao aprimoramento de habilidades, além de participação entusiasmada em eventos da área. Abaixo, uma lista de algumas certificações:",
+                    "nav_label": "Conquistas"
+                },
+                "en": {
+                    "title": "Professional *Achievements*",
+                    "title_short": null,
+                    "description": "My journey as a developer was marked by a constant dedication to learning and improving skills, along with enthusiastic participation in events in the field. Below, a list of some certifications:",
+                    "nav_label": "Achievements"
+                }
+            }
+        },
+
+        {
+            "id": "hobbies",
+            "categoryId": "more",
+            "jsonPath": "/sections/hobbies.json",
+            "faIcon": "fa-solid fa-heart",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Hobbies* & Interests",
+                    "title_short": null,
+                    "description": "This is pretty much how I spend my free time:",
+                    "nav_label": "Hobbies"
+                },
+                "pt-br": {
+                    "title": "*Hobbies* e Interesses",
+                    "title_short": null,
+                    "description": "Como eu gosto de passar meu tempo livre:<br><small><em>Estatísticas são meramente ilustrativas. =)</em></small>",
+                    "nav_label": "Hobbies"
+                }
+            }
+        },
+
+        {
+            "id": "contact",
+            "categoryId": "more",
+            "jsonPath": "/sections/contact.json",
+            "faIcon": "fa-solid fa-pen-to-square",
+            "type": "column",
+            "locales": {
+                "en": {
+                    "title": "*Contact* Me",
+                    "title_short": null,
+                    "description": "Please don't hesitate to get in touch with me whenever you feel the need!",
+                    "nav_label": "Contact"
+                },
+                "pt-br": {
+                    "title": "Entre em *Contato*",
+                    "title_short": null,
+                    "description": "Por favor não hesite em entrar em contato comigo, se sentir necessidade!",
+                    "nav_label": "Contato"
+                }
+            }
+        }
+    ]
+}

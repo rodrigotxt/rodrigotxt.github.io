@@ -1,0 +1,535 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleSkills",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": false,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-paint-roller",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Arquitetura de Software",
+                            "description": "Experiência na criação de arquiteturas escaláveis, modulares e de fácil manutenção, adequadas às necessidades do projeto.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "Software Architecture",
+                            "description": "Experience in creating scalable, modular, and easy-to-maintain architectures that align with the project's needs.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-code",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Boas Práticas de Código",
+                            "description": "Comprometido com a escrita de código limpo, legível e eficiente, seguindo princípios SOLID e padrões de projeto.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "Clean Code Practices",
+                            "description": "Committed to writing clean, readable, and efficient code following SOLID principles and design patterns.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-plug",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Design e Integração de APIs",
+                            "description": "Proficiente na construção e integração de APIs RESTful e GraphQL, com foco em clareza, segurança e performance.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "API Design & Integration",
+                            "description": "Proficient in building and integrating RESTful and GraphQL APIs with a focus on clarity, security, and performance.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-git-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Controle de Versão",
+                            "description": "Domínio do Git para estratégias de ramificação, colaboração em equipe e manutenção de um histórico limpo de commits.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "Version Control",
+                            "description": "Skilled in using Git for branching strategies, collaboration, and maintaining a clean commit history.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-vial",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Testes e Garantia de Qualidade",
+                            "description": "Forte defensor de testes automatizados (unitários, de integração e E2E) para garantir confiabilidade e prevenir regressões.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "Testing & Quality Assurance",
+                            "description": "Strong advocate for automated testing (unit, integration, E2E) to ensure reliability and prevent regressions.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-gears",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Fundamentos de DevOps",
+                            "description": "Capaz de configurar pipelines de CI/CD, containerizar aplicações com Docker e realizar deploy em plataformas na nuvem.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "DevOps Fundamentals",
+                            "description": "Capable of setting up CI/CD pipelines, containerizing applications (Docker), and deploying to cloud platforms.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-gauge-high",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Otimização de Performance",
+                            "description": "Foco em análise e otimização de performance, uso de memória e escalabilidade de sistemas.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "Performance Optimization",
+                            "description": "Focused on profiling and optimizing applications for speed, memory usage, and scalability.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 8,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Modelagem e Gestão de Banco de Dados",
+                            "description": "Experiência com bancos de dados relacionais e NoSQL, incluindo modelagem, otimização de queries e integridade dos dados.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "Database Design & Management",
+                            "description": "Proficient in relational and NoSQL database modeling, query optimization, and data integrity enforcement.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 9,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-code-compare",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Revisão de Código e Colaboração",
+                            "description": "Atuação em revisões de código, fornecendo feedback construtivo e promovendo o compartilhamento de conhecimento em equipe.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "Code Reviews & Collaboration",
+                            "description": "Experienced in peer reviews, providing constructive feedback, and fostering team knowledge-sharing.",
+                            "level": null
+                        }
+                    }
+                },
+                {
+                    "id": 10,
+                    "dateStart": null,
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-people-group",
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Metodologias Ágeis e Scrum",
+                            "description": "Confortável com o trabalho em times ágeis, utilizando sprints, dailies e ciclos contínuos de entrega.",
+                            "level": null
+                        },
+                        "en": {
+                            "title": "Agile & Scrum Methodologies",
+                            "description": "Comfortable working in Agile teams with sprints, stand-ups, and continuous delivery cycles.",
+                            "level": null
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleSkills",
+            "locales": {
+                "pt-br": {
+                    "title": "Frontend Stack"
+                },
+                "en": {
+                    "title": "Frontend Stack"
+                }
+            },
+            "settings": {
+                "order_items_by": "percentage",
+                "order_items_sort": "desc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2015,
+                        "month": 4
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-html5",
+                    "fallbackFaIconColor": null,
+                    "percentage": 95,
+                    "locales": {
+                        "en": {
+                            "title": "HTML 5",
+                            "description": "Experienced with HTML5 elements and features."
+                        },
+                        "pt-br": {
+                            "title": "HTML 5",
+                            "description": "Expertise em elementos e recursos do HTML5."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2015,
+                        "month": 1
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-css3-alt",
+                    "fallbackFaIconColor": null,
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "CSS 3",
+                            "description": "Skilled in advanced CSS3 techniques such as flexbox, grid, and animations. In addition, experience with frameworks like Bootstrap, Tailwind, and Bulma."
+                        },
+                        "pt-br": {
+                            "title": "CSS 3",
+                            "description": "Experiência em tecnicas avançadas de CSS3 como flexbox, grid e animações. Além de frameworks como bootstrap, tailwind e bulma."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {
+                        "year": 2008,
+                        "month": 8
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-js-square",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "Javascript",
+                            "description": "Experience in JavaScript and related frameworks for creating dynamic and interactive elements."
+                        },
+                        "pt-br": {
+                            "title": "Javascript",
+                            "description": "Experiência em JavaScript e frameworks relacionados para criação de elementos dinâmicos e interativos."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {
+                        "year": 2016,
+                        "month": 12
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-vuejs",
+                    "fallbackFaIconColor": null,
+                    "percentage": 80,
+                    "locales": {
+                        "en": {
+                            "title": "Vue",
+                            "description": "Capable of building and deploying complex Vue applications, with component hierarchy, routing, and state management with Vuex or Pinia."
+                        },
+                        "pt-br": {
+                            "title": "Vue",
+                            "description": "Capaz de construir e implantar aplicativos Vue complexos, com hierarquia de componentes, rotas e gerenciamento de estado com Vuex ou Pinia."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "dateStart": {
+                        "year": 2021,
+                        "month": 10
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-react",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "en": {
+                            "title": "React",
+                            "description": "Experienced in building interactive UIs with React, using hooks and component-based architecture."
+                        },
+                        "pt-br": {
+                            "title": "React",
+                            "description": "Experiência em construir interfaces interativas com React, usando hooks e arquitetura baseada em componentes."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "dateStart": {
+                        "year": 2018,
+                        "month": 11
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-angular",
+                    "fallbackFaIconColor": null,
+                    "percentage": 75,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Angular",
+                            "description": ""
+                        },
+                        "en": {
+                            "title": "Angular",
+                            "description": ""
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Backend Stack"
+                },
+                "pt-br": {
+                    "title": "Backend Stack"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 2,
+                "transparent_item_icon_background": true,
+                "small_icons": false,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "dateStart": {
+                        "year": 2005,
+                        "month": 1
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-solid fa-database",
+                    "fallbackFaIconColor": null,
+                    "percentage": 85,
+                    "locales": {
+                        "en": {
+                            "title": "MySQL",
+                            "description": "Skilled in managing MySQL databases, including schema design and query optimization."
+                        },
+                        "pt-br": {
+                            "title": "MySQL",
+                            "description": "Experiência em gerenciamento de bancos de dados MySQL, incluindo modalagem de esquemas e otimização de consultas complexas."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "dateStart": {
+                        "year": 2005,
+                        "month": 1
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-php",
+                    "fallbackFaIconColor": null,
+                    "percentage": 90,
+                    "locales": {
+                        "en": {
+                            "title": "PHP",
+                            "description": "Experienced in building dynamic web apps with PHP, including server-side logic and database integration."
+                        },
+                        "pt-br": {
+                            "title": "PHP",
+                            "description": "Experiência em construir aplicativos web dinâmicos com PHP, incluindo microserviços e integração com bancos de dados."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "dateStart": {
+                        "year": 2017,
+                        "month": 1
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-laravel",
+                    "fallbackFaIconColor": null,
+                    "percentage": 55,
+                    "locales": {
+                        "en": {
+                            "title": "Laravel",
+                            "description": "Development of APIs, with focus on clean code, security and performance."
+                        },
+                        "pt-br": {
+                            "title": "Laravel",
+                            "description": "Desenvolvimento de APIs, com foco em código limpo (clean code), segurança e performance."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {
+                        "year": 2020,
+                        "month": 1
+                    },
+                    "img": null,
+                    "fallbackFaIcon": "fa-brands fa-node",
+                    "fallbackFaIconColor": null,
+                    "percentage": 50,
+                    "locales": {
+                        "en": {
+                            "title": "NodeJS",
+                            "description": "Creation of APIs, using frameworks such as: NestJS, ExpressJS and Fastify and integration with relational and non-relational databases such as MongoDB."
+                        },
+                        "pt-br": {
+                            "title": "NodeJS",
+                            "description": "Criação de APIs, usando frameworks como: NestJS, ExpressJS e Fastify e integração com banco relacionais e não relacionais como MongoDB."
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "Languages"
+                },
+                "pt-br": {
+                    "title": "Idiomas"
+                }
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "max_items_per_line": 1,
+                "small_icons": true,
+                "transparent_item_icon_background": true,
+                "chart": null
+            },
+            "items": [
+                {
+                    "id": 3,
+                    "dateStart": null,
+                    "img": "images/flags/en-us.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "description": "Intermediate proficiency in English language; can read and understand written text.",
+                            "level": "Intermediate"
+                        },
+                        "pt-br": {
+                            "title": "Inglês",
+                            "description": "Proficiência intermediária em inglês; pode ler e entender textos, artigos e documentações.",
+                            "level": "Intermediario"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": null,
+                    "img": "images/flags/pt-br.png",
+                    "fallbackFaIcon": null,
+                    "fallbackFaIconColor": null,
+                    "percentage": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Português",
+                            "description": "Idioma Nativo, excelentes habilidades de comunicação e escrita.",
+                            "level": "Nativo"
+                        },
+                        "en": {
+                            "title": "POrtuguese Brazilian",
+                            "description": "Native speaker with excellent communication and writing skills.",
+                            "level": "Native"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
