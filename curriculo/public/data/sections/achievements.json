@@ -1,0 +1,193 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleThread",
+            "locales": {
+                "pt-br": {"title": "Certificados"},
+                "en": {"title": "Certifications"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2023, "month": 4},
+                    "fallbackFaIcon": "fa-solid fa-newspaper",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "PHP",
+                            "description": "Conceitos de Estrutura de dados e APIs da linguagem.",
+                            "institution": "Coodesh"
+                        },
+                        "en": {
+                            "title": "PHP",
+                            "description": "Data structures and APIs concepts of the language.",
+                            "institution": "Coodesh"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://coodesh.com/share/certificate/38571650-ca96-11ed-9234-c5cd2e3ffc01", "stringKey": "view_more_info"}
+                    ]
+                },
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2024, "month": 9},
+                    "fallbackFaIcon": "fa-solid fa-newspaper",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Lógica de Programação",
+                            "description": "Mergulhe na programação com JavaScript.",
+                            "institution": "Alura"
+                        },
+                        "en": {
+                            "title": "Programming logic",
+                            "description": "Dive into programming with JavaScript.",
+                            "institution": "Alura"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://cursos.alura.com.br/certificate/ccc7184b-106f-4425-935f-5b9a2c8c3276", "stringKey": "view_more_info"}
+                    ]
+                },
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2024, "month": 10},
+                    "fallbackFaIcon": "fa-solid fa-newspaper",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "HTML e CSS",
+                            "description": "Ambientes de desenvolvimento, estrutura de arquivos e tags.",
+                            "institution": "Alura"
+                        },
+                        "en": {
+                            "title": "HTML and CSS",
+                            "description": "Development environments, file structure and tags.",
+                            "institution": "Alura"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://cursos.alura.com.br/formalCertificate/a4948083-2e26-438b-94e6-a325871f77f1", "stringKey": "view_more_info"}
+                    ]
+                },
+                {
+                    "id": 1,
+                    "dateStart": {"year": 2024, "month": 10},
+                    "fallbackFaIcon": "fa-solid fa-newspaper",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "JavaScript e HTML",
+                            "description": "Desenvolva um jogo e pratique lógica de programação.",
+                            "institution": "Alura"
+                        },
+                        "en": {
+                            "title": "JavaScript and HTML",
+                            "description": "Develop a game and practice programming logic.",
+                            "institution": "Alura"
+                        }
+                    },
+                    "links": [
+                        {"href": "https://cursos.alura.com.br/formalCertificate/8641341e-348b-4ce1-8baa-25a392a48664", "stringKey": "view_more_info"}
+                    ]
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "pt-br": {"title": "Cursos Extras"},
+                "en": {"title": "Extra Courses"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 3,
+                    "dateStart": {"year": 2001, "month": 10},
+                    "fallbackFaIcon": "fa-solid fa-house-laptop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Montagem e Manutenção de Computadores",
+                            "description": "Desenvolvimento das capacidades técnicas para realizar a manutenção de computadores configurando e atualizando componentes.",
+                            "institution": "SENAI"
+                        },
+                        "en": {
+                            "title": "Computer Assembly and Maintenance",
+                            "description": "Development of technical skills to perform computer maintenance by configuring and updating components.",
+                            "institution": "SENAI"
+                        }
+                    }
+                },
+
+                {
+                    "id": 2,
+                    "dateStart": {"year": 2000, "month": 4},
+                    "fallbackFaIcon": "fa-solid fa-house-laptop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Editoração Eletrônica",
+                            "description": "Curso de editoração eletrônica completo: Photoshop, CorelDraw, Illustrator e InDesign.",
+                            "institution": "Bit Company"
+                        },
+
+                        "en": {
+                            "title": "Electronic Editing",
+                            "description": "Complete course of electronic editing: Photoshop, CorelDraw, Illustrator and InDesign.",
+                            "institution": "Bit Company"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "dateStart": {"year": 2002, "month": 2},
+                    "fallbackFaIcon": "fa-solid fa-house-laptop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Ténico em Web Design",
+                            "description": "Certificação de Ténico em Web Design; básico de HTML, CSS, Javascript.",
+                            "institution": "SENAI"
+                        },
+
+                        "en": {
+                            "title": "Web Design Technician",
+                            "description": "Web Design Technician certification; basic of HTML, CSS, Javascript.",
+                            "institution": "SENAI"
+                        }
+                    }
+                },
+                {
+                    "id": 1,
+                    "dateStart": {"year": 1996, "month": 8},
+                    "fallbackFaIcon": "fa-solid fa-house-laptop",
+                    "fallbackFaIconColor": null,
+                    "locales": {
+                        "pt-br": {
+                            "title": "Curso Básico de Informática",
+                            "description": "Curso de Windows 95, MS-DOS, MS-Word, MS-Excel, MS-Access e MS-PowerPoint.",
+                            "institution": "SENAI"
+                        },
+
+                        "en": {
+                            "title": "Basic Computer Course",
+                            "description": "Windows 95, MS-DOS, MS-Word, MS-Excel, MS-Access and MS-PowerPoint.",
+                            "institution": "SENAI"
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

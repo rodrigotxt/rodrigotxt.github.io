@@ -1,0 +1,71 @@
+{
+    "name": "Rodrigo Martins",
+    "profilePictureUrl": "images/pictures/avatar.png",
+
+    "locales": {
+        "pt-br": {
+            "credits": "Designed by <strong><a href='https://github.com/rodrigotxt'>Rodrigo Martins</a></strong>",
+            "role": "Full Stack Developer Sênior"
+        }
+    },
+
+    "contactOptions": [
+        {
+            "id": "address",
+            "faIcon": "fa-regular fa-map",
+            "href": null,
+            "locales": {
+                "pt-br": {
+                    "value": "Florianópolis, SC",
+                    "valueShort": "Florianópolis – SC"
+                }
+            }
+        },
+
+        {
+            "id": "email",
+            "value": "contato@rodrigo.inf.br",
+            "valueShort": "contato@rodrigo.inf.br",
+            "faIcon": "fa-regular fa-envelope",
+            "href": "mailto:contato@rodrigo.inf.br"
+        },
+
+        {
+            "id": "facebook",
+            "value": "Rodrigo Martins",
+            "valueShort": "Rodrigo Martins",
+            "faIcon": "fa-brands fa-facebook",
+            "href": "https://facebook.com/rodrigotxt"
+        },
+
+        {
+            "id": "github",
+            "value": "@rodrigotxt",
+            "valueShort": "@rodrigotxt",
+            "faIcon": "fa-brands fa-github",
+            "href": "https://github.com/rodrigotxt"
+        },
+        {
+            "id": "linkedin",
+            "value": "@rodrigotxt",
+            "valueShort": "@rodrigotxt",
+            "faIcon": "fa-brands fa-linkedin",
+            "href": "https://linkedin.com/in/rodrigotxt"
+        },
+
+        {
+            "id": "whatsapp",
+            "value": "+55 (62) 99659-2871",
+            "valueShort": "(62) 99659-2871",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "https://wa.me/5562996592871"
+        },
+        {
+            "id": "phone",
+            "value": "+55 (62) 99659-2871",
+            "valueShort": "(62) 99659-2871",
+            "faIcon": "fa-brands fa-whatsapp",
+            "href": "tel:62996592871"
+        }
+    ]
+}

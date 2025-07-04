@@ -1,0 +1,432 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "component": "ArticleTimeline",
+      "locales": {},
+      "settings": {
+        "order_items_by": "id",
+        "order_items_sort": "asc"
+      },
+      "items": [
+        {
+          "id": 1,
+          "dateStart": { "year": 2024, "month": 4 },
+          "dateEnd": { "year": 2025, "month": 5 },
+          "img": "images/places/logo-total.png",
+          "fallbackFaIcon": null,
+          "fallbackFaIconColor": null,
+          "locales": {
+            "pt-br": {
+              "title": "Engenheiro de Software Sênior",
+              "description": "Atuação em sistemas de logística/courrier, com foco em sustentação, melhoria contínua e evolução de microsserviços.",
+              "list": {
+                "title": "Principais atuações:",
+                "items": [
+                  "- Uso da plataforma low-code Digibee para integração de APIs.",
+                  "- Análise de logs com Kibana, AWS Cloudwatch e ferramentas similares.",
+                  "- Desenvolvimento de melhorias e novas funcionalidades em microsserviços.",
+                  "<strong>Tecnologias:</strong> PHP (5.6–8.3), Laravel, JavaScript, jQuery, Docker, AWS, EC2, Lambda (Node.js/Python), SQS, PHPUnit, MySQL."
+                ]
+              },
+              "province": "Barueri, SP",
+              "country": "Brasil",
+              "institution": "Total Express",
+              "tags": ["PHP", "Laravel", "AWS", "Microsserviços"]
+            },
+            "en": {
+              "title": "Senior Software Engineer",
+              "description": "Worked on logistics/courier systems with focus on support, continuous improvement, and microservices evolution.",
+              "list": {
+                "title": "Key responsibilities:",
+                "items": [
+                  "- Utilized Digibee low-code platform to integrate internal and external APIs.",
+                  "- Performed root cause analysis using Kibana, AWS Cloudwatch, and related tools.",
+                  "- Implemented improvements and new features in microservices ecosystem.",
+                  "<strong>Technologies:</strong> PHP (5.6–8.3), Laravel, JavaScript, jQuery, Docker, AWS, EC2, Lambda (Node.js/Python), SQS, PHPUnit, MySQL."
+                ]
+              },
+              "province": "Florianópolis, SC",
+              "country": "Brazil",
+              "institution": "Total Express",
+              "tags": ["PHP", "Laravel", "AWS", "Microservices"]
+            }
+          }
+        },
+        {
+          "id": 2,
+          "dateStart": { "year": 2023, "month": 5 },
+          "dateEnd": { "year": 2025, "month": 1 },
+          "img": "images/places/logo-auto-avaliar.jpeg",
+          "locales": {
+            "pt-br": {
+              "title": "Desenvolvedor Full Stack",
+              "description": "Atuação em plataforma de gestão e venda de veículos, com integração com montadoras, concessionárias e bancos.",
+              "list": {
+                "title": "<strong>Tecnologias utilizadas:</strong>",
+                "items": [
+                  "PHP (5.6–8.3), Laravel, Lumen, Phalcon, Angular, Vue.js, Google Cloud Pub/Sub, SQL, MySQL, Firebird, DynamoDB, Docker"
+                ]
+              },
+              "province": "Valinhos, SP",
+              "country": "Brasil",
+              "institution": "Auto Avaliar / Ivy",
+              "tags": ["PHP", "Laravel", "Vue.js", "Google Cloud"]
+            },
+            "en": {
+              "title": "Full Stack Developer",
+              "description": "Worked on vehicle sales and management platform integrated with automakers, dealerships, and banks.",
+              "list": {
+                "title": "Main technologies:",
+                "items": [
+                  "PHP (5.6–8.3), Laravel, Lumen, Phalcon, Angular, Vue.js, Google Cloud Pub/Sub, SQL, MySQL, Firebird, DynamoDB, Docker"
+                ]
+              },
+              "province": "Florianópolis, SC",
+              "country": "Brazil",
+              "institution": "Auto Avaliar / Ivy",
+              "tags": ["PHP", "Laravel", "Vue.js", "Google Cloud"]
+            }
+          }
+        },
+        {
+          "id": 3,
+          "dateStart": { "year": 2022, "month": 8 },
+          "dateEnd": { "year": 2023, "month": 12 },
+          "img": "images/places/logo-fnq.png",
+          "locales": {
+            "pt-br": {
+              "title": "Engenheiro de Software Sênior",
+              "description": "Responsável por manter os websites da FNQ, corrigindo bugs, atualizações e segurança.",
+              "list": {
+                "title": "<strong>Tecnologias utilizadas:</strong>",
+                "items": [
+                  "PHP, Wordpress, Woocommerce, Javascript, ASP.NET, Ruby on Rails, Linux, API Restful, Micropower.ai"
+                ]
+              },
+              "province": "São Paulo, SP",
+              "country": "Brasil",
+              "institution": "FNQ - Fundação Nacional da Qualidade",
+              "tags": ["PHP", "Wordpress", "Ruby", "ASP.NET"]
+            },
+            "en": {
+              "title": "Senior Software Engineer",
+              "description": "Maintained FNQ websites, fixing bugs, updating features and managing data security.",
+              "list": {
+                "title": "Technologies used:",
+                "items": [
+                  "PHP, Wordpress, Woocommerce, Javascript, ASP.NET, Ruby on Rails, Linux, API Restful, Micropower.ai"
+                ]
+              },
+              "province": "Florianópolis, SC",
+              "country": "Brazil",
+              "institution": "FNQ - National Quality Foundation",
+              "tags": ["PHP", "Wordpress", "Ruby", "ASP.NET"]
+            }
+          }
+        },
+        {
+          "id": 4,
+          "dateStart": { "year": 2022, "month": 8 },
+          "dateEnd": { "year": 2023, "month": 2 },
+          "img": "images/places/logo-r2.png",
+          "locales": {
+            "pt-br": {
+              "title": "Desenvolvedor Full Stack Sênior",
+              "description": "Suporte e desenvolvimento de plataforma de eventos, otimização de fluxo de vendas e ferramentas para marketing.",
+              "list": {
+                "title": "<strong>Tecnologias utilizadas:</strong>",
+                "items": [
+                  "PHP 8.2, xdebug, Wordpress, Woocommerce, Docker, Javascript, Vue.js, AWS (EC2, Aurora, Cloudwatch, Elastic Beanstalk)"
+                ]
+              },
+              "province": "Brasília, DF",
+              "country": "Brasil",
+              "institution": "R2 com.vc",
+              "tags": ["PHP", "Vue.js", "AWS", "Eventos"]
+            },
+            "en": {
+              "title": "Senior Full Stack Developer",
+              "description": "Supported and developed event platform, optimized purchase flow and marketing analytics tools.",
+              "list": {
+                "title": "Technologies used:",
+                "items": [
+                  "PHP 8.2, xdebug, Wordpress, Woocommerce, Docker, Javascript, Vue.js, AWS (EC2, Aurora, Cloudwatch, Elastic Beanstalk)"
+                ]
+              },
+              "province": "Brasília, DF",
+              "country": "Brazil",
+              "institution": "R2 com.vc",
+              "tags": ["PHP", "Vue.js", "AWS", "Events"]
+            }
+          }
+        },
+        {
+          "id": 5,
+          "dateStart": { "year": 2021, "month": 11 },
+          "dateEnd": { "year": 2022, "month": 8 },
+          "img": "images/places/logo-w16.jpeg",
+          "locales": {
+            "pt-br": {
+              "title": "Desenvolvedor Full Stack Pleno",
+              "description": "Atuação em projetos para o setor público (turismo, saúde), com foco em inteligência e dados.",
+              "list": {
+                "title": "<strong>Tecnologias utilizadas:</strong>",
+                "items": [
+                  "PHP, Laravel, Livewire, Node.js, React, Angular, Wordpress, AWS, Oracle, MySQL, MongoDB"
+                ]
+              },
+              "province": "Florianópolis, SC",
+              "country": "Brasil",
+              "institution": "W16 Software House",
+              "tags": ["PHP", "Laravel", "Node.js", "AWS"]
+            },
+            "en": {
+              "title": "Full Stack Developer",
+              "description": "Worked on projects in tourism and healthcare sectors, building web systems with focus on data and reports.",
+              "list": {
+                "title": "Technologies used:",
+                "items": [
+                  "PHP, Laravel, Livewire, Node.js, React, Angular, Wordpress, AWS, Oracle, MySQL, MongoDB"
+                ]
+              },
+              "province": "Florianópolis, SC",
+              "country": "Brazil",
+              "institution": "W16 Software House",
+              "tags": ["PHP", "Laravel", "Node.js", "AWS"]
+            }
+          }
+        },
+        {
+          "id": 6,
+          "dateStart": { "year": 2021, "month": 4 },
+          "dateEnd": { "year": 2021, "month": 11 },
+          "img": "images/places/logo-mint-lab.jpeg",
+          "locales": {
+            "pt-br": {
+              "title": "Desenvolvedor Full Stack Pleno",
+              "description": "Manutenção e evolução de produto em Laravel e Angular.js para geração de catálogos e gerenciamento de produtos.",
+              "list": {
+                "title": "<strong>Tecnologias utilizadas:</strong>",
+                "items": [
+                  "PHP, Laravel, AngularJS, Node.js, MySQL, MongoDB, React, Wordpress, AWS S3"
+                ]
+              },
+              "province": "Florianópolis, SC",
+              "country": "Brasil",
+              "institution": "MINT Interactive Lab",
+              "tags": ["Laravel", "Angular", "MongoDB", "SaaS"]
+            },
+            "en": {
+              "title": "Full Stack Developer",
+              "description": "Maintained and improved Laravel/AngularJS product for catalog generation and product management.",
+              "list": {
+                "title": "Technologies used:",
+                "items": [
+                  "PHP, Laravel, AngularJS, Node.js, MySQL, MongoDB, React, Wordpress, AWS S3"
+                ]
+              },
+              "province": "Florianópolis, SC",
+              "country": "Brazil",
+              "institution": "MINT Interactive Lab",
+              "tags": ["Laravel", "Angular", "MongoDB", "SaaS"]
+            }
+          }
+        },
+        {
+          "id": 7,
+          "dateStart": { "year": 2018, "month": 10 },
+          "dateEnd": { "year": 2020, "month": 10 },
+          "img": "images/places/logo-espacoid.jpg",
+          "locales": {
+            "pt-br": {
+              "title": "Programador de Sistemas Sênior",
+              "description": "Responsável pelo setor de tecnologia, desenvolvimento e manutenção de sistemas para grandes clientes do varejo e indústria.",
+              "list": {
+                "title": "<strong>Tecnologias utilizadas:</strong>",
+                "items": ["PHP, MySQL, Javascript, Wordpress, infraestrutura web"]
+              },
+              "province": "Goiânia, GO",
+              "country": "Brasil",
+              "institution": "EspaçoID",
+              "tags": ["PHP", "Wordpress", "E-commerce"]
+            },
+            "en": {
+              "title": "Senior Systems Programmer",
+              "description": "Led technology department; developed and maintained systems for retail and industry clients.",
+              "list": {
+                "title": "Technologies used:",
+                "items": ["PHP, MySQL, Javascript, Wordpress, web infrastructure"]
+              },
+              "province": "Goiânia, GO",
+              "country": "Brazil",
+              "institution": "EspaçoID",
+              "tags": ["PHP", "Wordpress", "E-commerce"]
+            }
+          }
+        },
+        {
+          "id": 8,
+          "dateStart": { "year": 2018, "month": 1 },
+          "dateEnd": { "year": 2018, "month": 6 },
+          "img": "images/places/logo-wiki.jpeg",
+          "locales": {
+            "pt-br": {
+              "title": "Programador de sistemas",
+              "description": "Desenvolvimento e manutenção de aplicativos, websites e sistemas personalizados.",
+              "list": {
+                "title": "<strong>Tecnologias utilizadas:</strong>",
+                "items": ["PHP, MySQL, Javascript, desenvolvimento mobile"]
+              },
+              "province": "Goiânia, GO",
+              "country": "Brasil",
+              "institution": "Wiki Soluções Inteligentes",
+              "tags": ["PHP", "Mobile", "Sistemas personalizados"]
+            },
+            "en": {
+              "title": "Systems Developer",
+              "description": "Developed and maintained apps, websites, and custom systems.",
+              "list": {
+                "title": "Technologies used:",
+                "items": ["PHP, MySQL, Javascript, mobile development"]
+              },
+              "province": "Goiânia, GO",
+              "country": "Brazil",
+              "institution": "Wiki Soluções Inteligentes",
+              "tags": ["PHP", "Mobile", "Custom Systems"]
+            }
+          }
+        },
+        {
+          "id": 9,
+          "dateStart": { "year": 2014, "month": 3 },
+          "dateEnd": { "year": 2018, "month": 1 },
+          "img": "images/places/logo-rm.png",
+          "locales": {
+            "pt-br": {
+              "title": "Proprietário / Desenvolvedor Autônomo",
+              "description": "Atuação como freelancer, prestando serviços de desenvolvimento de websites, e-commerces, sistemas e marketing digital.",
+              "list": {
+                "title": "Projetos executados:",
+                "items": ["Sistemas personalizados, websites, identidade visual, comunicação visual"]
+              },
+              "province": "Florianópolis, SC",
+              "country": "Brasil",
+              "institution": "Agência RM",
+              "tags": ["Freelancer", "PHP", "Design", "Sistemas Web"]
+            },
+            "en": {
+              "title": "Freelancer / Agency Owner",
+              "description": "Worked independently and as agency owner delivering websites, systems, and visual design solutions.",
+              "list": {
+                "title": "Projects delivered:",
+                "items": ["Custom systems, websites, branding, visual communication"]
+              },
+              "province": "Florianópolis, SC",
+              "country": "Brazil",
+              "institution": "Agência RM",
+              "tags": ["Freelancer", "PHP", "Design", "Web Systems"]
+            }
+          }
+        },
+        {
+          "id": 10,
+          "dateStart": { "year": 2013, "month": 12 },
+          "dateEnd": { "year": 2014, "month": 2 },
+          "img": "images/places/logo-objeto.png",
+          "locales": {
+            "pt-br": {
+              "title": "Engenheiro de software",
+              "description": "Desenvolvimento de projetos PHP, como sites institucionais, e-commerce e sistema de afiliados.",
+              "list": {
+                "title": "<strong>Tecnologias utilizadas:</strong>",
+                "items": ["PHP, MySQL, HTML/CSS, sistema de marketing multinível"]
+              },
+              "province": "Goiânia, GO",
+              "country": "Brasil",
+              "institution": "Objeto Comunicação e Tecnologia",
+              "tags": ["PHP", "E-commerce", "Afiliados"]
+            },
+            "en": {
+              "title": "Software Engineer",
+              "description": "Developed PHP-based projects including institutional sites, e-commerce and affiliate systems.",
+              "list": {
+                "title": "Technologies used:",
+                "items": ["PHP, MySQL, HTML/CSS, multilevel marketing system"]
+              },
+              "province": "Goiânia, GO",
+              "country": "Brazil",
+              "institution": "Objeto Comunicação e Tecnologia",
+              "tags": ["PHP", "E-commerce", "Affiliate"]
+            }
+          }
+        },
+        {
+          "id": 11,
+          "dateStart": { "year": 2010, "month": 1 },
+          "dateEnd": { "year": 2013, "month": 2 },
+          "img": "images/places/logo-idtech.png",
+          "locales": {
+            "pt-br": {
+              "title": "Programador Web",
+              "description": "Alocado nos sistemas de saúde pública de Goiânia, com foco em melhorias e manutenção de sistemas do SUS.",
+              "list": {
+                "title": "Principais atividades:",
+                "items": ["Sistemas de marcação de consultas, farmácia, relatórios e unidades de saúde"]
+              },
+              "province": "Goiânia, GO",
+              "country": "Brasil",
+              "institution": "Idtech (Instituto de Desenvolvimento Tecnológico e Humano)",
+              "tags": ["Saúde Pública", "PHP", "SUS"]
+            },
+            "en": {
+              "title": "Web Developer",
+              "description": "Worked on public healthcare systems in Goiânia, focusing on support and feature development for SUS-related applications.",
+              "list": {
+                "title": "Main activities:",
+                "items": ["Appointment scheduling, pharmacy management, reporting, healthcare unit systems"]
+              },
+              "province": "Goiânia, GO",
+              "country": "Brazil",
+              "institution": "Idtech (Technological Development Institute)",
+              "tags": ["Public Health", "PHP", "SUS"]
+            }
+          }
+        },
+        {
+          "id": 12,
+          "dateStart": { "year": 2006, "month": 7 },
+          "dateEnd": { "year": 2010, "month": 8 },
+          "img": "images/places/logo-mineiros.png",
+          "locales": {
+            "pt-br": {
+              "title": "Webdesigner",
+              "description": "Responsável pelo portal da prefeitura, incluindo atualização de notícias, gestão de usuários e licitações.",
+              "list": {
+                "title": "Atividades:",
+                "items": ["Gerenciamento do site, conteúdo de notícias, controle de acesso de usuários, sistema de editais e licitações."]
+              },
+              "province": "Mineiros, GO",
+              "country": "Brasil",
+              "institution": "Prefeitura de Mineiros",
+              "tags": ["Web", "CMS", "Setor Público"]
+            },
+            "en": {
+              "title": "Web Designer",
+              "description": "Maintained the municipal government website, including news, user registration and bidding systems.",
+              "list": {
+                "title": "Activities:",
+                "items": ["Site management, news content, user system, procurement listings"]
+              },
+              "province": "Mineiros, GO",
+              "country": "Brazil",
+              "institution": "Mineiros City Hall",
+              "tags": ["Web", "CMS", "Public Sector"]
+            }
+          }
+        }
+
+      ]
+    }
+  ]
+}
