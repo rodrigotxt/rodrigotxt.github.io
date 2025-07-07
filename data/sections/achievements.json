@@ -4,8 +4,8 @@
             "id": 1,
             "component": "ArticleThread",
             "locales": {
-                "pt-br": {"title": "Certificados"},
-                "en": {"title": "Certifications"}
+                "pt-br": {"title": "Cursos Online"},
+                "en": {"title": "Online Courses"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -103,8 +103,8 @@
             "id": 2,
             "component": "ArticleThread",
             "locales": {
-                "pt-br": {"title": "Cursos Extras"},
-                "en": {"title": "Extra Courses"}
+                "pt-br": {"title": "Outros Cursos"},
+                "en": {"title": "Other Courses"}
             },
             "settings": {
                 "order_items_by": "id",
