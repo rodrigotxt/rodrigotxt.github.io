@@ -265,7 +265,7 @@
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-css3-alt",
                     "fallbackFaIconColor": null,
-                    "percentage": 90,
+                    "percentage": 92,
                     "locales": {
                         "en": {
                             "title": "CSS 3",
@@ -286,7 +286,7 @@
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-js-square",
                     "fallbackFaIconColor": null,
-                    "percentage": 85,
+                    "percentage": 91,
                     "locales": {
                         "en": {
                             "title": "Javascript",
@@ -392,7 +392,7 @@
                     "img": null,
                     "fallbackFaIcon": "fa-solid fa-database",
                     "fallbackFaIconColor": null,
-                    "percentage": 85,
+                    "percentage": 91,
                     "locales": {
                         "en": {
                             "title": "MySQL",
@@ -413,7 +413,7 @@
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-php",
                     "fallbackFaIconColor": null,
-                    "percentage": 90,
+                    "percentage": 91,
                     "locales": {
                         "en": {
                             "title": "PHP",
@@ -434,7 +434,7 @@
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-laravel",
                     "fallbackFaIconColor": null,
-                    "percentage": 55,
+                    "percentage": 85,
                     "locales": {
                         "en": {
                             "title": "Laravel",
@@ -455,7 +455,7 @@
                     "img": null,
                     "fallbackFaIcon": "fa-brands fa-node",
                     "fallbackFaIconColor": null,
-                    "percentage": 50,
+                    "percentage": 85,
                     "locales": {
                         "en": {
                             "title": "NodeJS",
